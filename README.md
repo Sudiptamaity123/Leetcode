@@ -16,6 +16,7 @@ Leetcode Daily Problem of the day
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sudiptamaity123/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Leetcode Daily Problem of the day
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sudiptamaity123/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Leetcode Daily Problem of the day
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sudiptamaity123/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -119,4 +123,9 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sudiptamaity123/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
