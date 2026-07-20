@@ -9,6 +9,7 @@ Leetcode Daily Problem of the day
 | [0001-two-sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudiptamaity123/Leetcode/tree/master/0053-maximum-subarray) |
+| [1260-shift-2d-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sudiptamaity123/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sudiptamaity123/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -57,6 +58,7 @@ Leetcode Daily Problem of the day
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sudiptamaity123/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -127,5 +129,6 @@ Leetcode Daily Problem of the day
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
