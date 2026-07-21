@@ -22,6 +22,7 @@ Leetcode Daily Problem of the day
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sudiptamaity123/Leetcode/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudiptamaity123/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sudiptamaity123/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
@@ -107,6 +108,7 @@ Leetcode Daily Problem of the day
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sudiptamaity123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
