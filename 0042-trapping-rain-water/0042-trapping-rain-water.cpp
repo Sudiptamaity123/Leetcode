@@ -1,22 +1,50 @@
 class Solution {
+    vector<int> nge(vector<int>& nums) {
+        int n=nums.size();
+        stack<int>st;
+        vector<int>nge(n,-1);
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty()&&st.top()<=nums[i])
+                st.pop();
+            if(i<n){
+                if(st.empty())
+                    nge[i]=-1;
+                else
+                    nge[i]=max(st.top(),nge[i+1]);
+            }
+            st.push(nums[i]);
+        }
+        return nge;
+    }
+    vector<int> pge(vector<int>& nums) {
+        int n=nums.size();
+        stack<int>st;
+        vector<int>nge(n,-1);
+        for(int i=0;i<n;i++){
+            while(!st.empty()&&st.top()<=nums[i])
+                st.pop();
+            if(i<n){
+                if(st.empty())
+                    nge[i]=-1;
+                else
+                    nge[i]=max(st.top(),nge[i-1]);
+            }
+            st.push(nums[i]);
+        }
+        return nge;
+    }
 public:
     int trap(vector<int>& height) {
         int n=height.size();
-        int l=0,h=n-1;
-        int lmax=INT_MIN,rmax=INT_MIN;
+        auto ng=nge(height);
+        auto pg=pge(height);
         int ans=0;
-        while(l<h){
-            if(height[l]<height[h]){
-                if(height[l]>lmax)
-                    lmax=height[l++];
-                else
-                    ans+=(lmax-height[l++]);
-            }else{
-                if(height[h]>rmax)
-                    rmax=height[h--];
-                else
-                    ans+=(rmax-height[h--]);
-            }
+        for(int i=0;i<n;i++){
+            int h=min(ng[i],pg[i]);
+            if(h==-1)
+                continue;
+            cout<<h<<" ";
+            ans+=(h-height[i]);
         }
         return ans;
     }
