@@ -9,6 +9,7 @@ Leetcode Daily Problem of the day
 | [0001-two-sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudiptamaity123/Leetcode/tree/master/0053-maximum-subarray) |
+| [0496-next-greater-element-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1260-shift-2d-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sudiptamaity123/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sudiptamaity123/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -29,6 +30,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudiptamaity123/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
@@ -110,10 +112,12 @@ Leetcode Daily Problem of the day
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudiptamaity123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
