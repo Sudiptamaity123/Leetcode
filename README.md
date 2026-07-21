@@ -30,6 +30,7 @@ Leetcode Daily Problem of the day
 | [0020-valid-parentheses](https://github.com/Sudiptamaity123/Leetcode/tree/master/0020-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudiptamaity123/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sudiptamaity123/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Sudiptamaity123/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Number Theory
 |  |
 | ------- |
