@@ -7,6 +7,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudiptamaity123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0239-sliding-window-maximum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -103,6 +104,7 @@ Leetcode Daily Problem of the day
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/Sudiptamaity123/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -113,6 +115,7 @@ Leetcode Daily Problem of the day
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
