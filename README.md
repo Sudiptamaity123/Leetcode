@@ -94,6 +94,7 @@ Leetcode Daily Problem of the day
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudiptamaity123/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sudiptamaity123/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sudiptamaity123/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Sudiptamaity123/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -142,6 +143,7 @@ Leetcode Daily Problem of the day
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sudiptamaity123/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -179,4 +181,8 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sudiptamaity123/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
