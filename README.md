@@ -7,6 +7,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudiptamaity123/Leetcode/tree/master/0053-maximum-subarray) |
@@ -115,6 +116,7 @@ Leetcode Daily Problem of the day
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -166,4 +168,8 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sudiptamaity123/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
