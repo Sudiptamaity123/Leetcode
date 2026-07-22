@@ -24,6 +24,7 @@ Leetcode Daily Problem of the day
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sudiptamaity123/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudiptamaity123/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sudiptamaity123/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sudiptamaity123/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -33,6 +34,7 @@ Leetcode Daily Problem of the day
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sudiptamaity123/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sudiptamaity123/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sudiptamaity123/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudiptamaity123/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sudiptamaity123/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudiptamaity123/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sudiptamaity123/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
@@ -172,4 +175,8 @@ Leetcode Daily Problem of the day
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sudiptamaity123/Leetcode/tree/master/0011-container-with-most-water) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Sudiptamaity123/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
